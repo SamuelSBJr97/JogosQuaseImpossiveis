@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+src/target/.rustc_info.json
+src/target/CACHEDIR.TAG
+src/target/wasm32-unknown-unknown/CACHEDIR.TAG
+src/Cargo.lock
